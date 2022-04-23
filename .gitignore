@@ -1,0 +1,9 @@
+/node_modules
+/dev
+/prod
+/test
+/src/vendor
+/.idea
+/TODO.md
+/yarn-error.log
+**/__snapshots__

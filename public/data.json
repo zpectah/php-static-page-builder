@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "key": "article_1",
+      "title": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "description": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "html": {
+        "en-US": "<p>HTML content</p>",
+        "cs-CZ": "<p>HTML content</p>"
+      }
+    },
+    {
+      "id": 2,
+      "key": "article_2",
+      "title": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "description": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "html": {
+        "en-US": "<p>HTML content</p>",
+        "cs-CZ": "<p>HTML content</p>"
+      }
+    },
+    {
+      "id": 3,
+      "key": "article_3",
+      "title": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "description": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "html": {
+        "en-US": "<p>HTML content</p>",
+        "cs-CZ": "<p>HTML content</p>"
+      }
+    },
+    {
+      "id": 4,
+      "key": "article_4",
+      "title": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "description": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "html": {
+        "en-US": "<p>HTML content</p>",
+        "cs-CZ": "<p>HTML content</p>"
+      }
+    },
+    {
+      "id": 5,
+      "key": "article_5",
+      "title": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "description": {
+        "en-US": "Article title",
+        "cs-CZ": "Titulek artiklu"
+      },
+      "html": {
+        "en-US": "<p>HTML content</p>",
+        "cs-CZ": "<p>HTML content</p>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<?php define("BUILD", [
+    "env" => "%%%%%ENV_ENV%%%%%",
+    "timestamp" => "%%%%%ENV_TIMESTAMP%%%%%"
+]);

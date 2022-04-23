@@ -1,0 +1,17 @@
+{
+  "development": {
+    "root": "http://php-static-page-builder/",
+    "scripts": "/scripts/index.bundle.js",
+    "styles": "/styles/index.css"
+  },
+  "test": {
+    "root": "http://test.php-static-page-builder/",
+    "scripts": "/scripts/index.bundle.min.js",
+    "styles": "/styles/index.min.css"
+  },
+  "production": {
+    "root": "...",
+    "scripts": "/scripts/index.bundle.min.js",
+    "styles": "/styles/index.min.css"
+  }
+}

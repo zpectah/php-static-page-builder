@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^scripts                          - [L]
+RewriteRule ^styles                           - [L]
+RewriteRule ^public                           - [L]
+
+RewriteCond %{REQUEST_URI}      !/www/        [NC]
+RewriteRule (.*)                /www/$1       [L]

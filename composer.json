@@ -1,0 +1,22 @@
+{
+	"name": "zpecter/php-static-page-builder",
+	"description": "PHP static page builder for quick creating stating page with more features and multi language content options",
+	"type": "project",
+	"require": {
+		"eftec/bladeone": "^3.51",
+		"ext-json": "*",
+      "ext-mysqli": "*",
+		"gumlet/php-image-resize": "^2.0",
+		"ifsnop/mysqldump-php": "^2.9"
+    },
+	"config": {
+		"vendor-dir": "src/vendor"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Tomas Sychra",
+			"email": "sychrat@gmail.com"
+		}
+	]
+}

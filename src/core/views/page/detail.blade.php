@@ -1,0 +1,3 @@
+<main>
+    detail view
+</main>
